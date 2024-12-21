@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi there! 👋 
+# Hi there 👋
 I'm John Rey Calesa, a passionate Full Stack Developer from Cebu City, Philippines.
 
 ## 🚀 Skills and Tools
