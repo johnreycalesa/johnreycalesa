@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**johnreycalesa/johnreycalesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 
+I'm John Rey Calesa, a passionate Full Stack Developer from Cebu City, Philippines.
 
-Here are some ideas to get you started:
+## 🚀 Skills and Tools
+- Languages: Java, Python, SQL, C#, JavaScript, TypeScript
+- Frameworks: VueJS, Angular, ReactJS, Laravel, .NET
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projects
+- [Speedy Repair and Delivery](https://github.com/yourproject)
+- [FavioJasso.com](https://github.com/yourproject)
+
+## 📫 Contact Me
+- Email: calesajohnrey@gmail.com
+- Phone: 0977-214-3141
+
