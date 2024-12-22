@@ -1,7 +1,6 @@
 # Hi there 👋
 I'm John Rey Calesa, a passionate Full Stack Developer from Cebu City, Philippines.
 
-![Employee data](/download.gif "Employee Data title")
 
 ## 🚀 Skills and Tools
 - Languages: Java, Python, SQL, C#, JavaScript, TypeScript
