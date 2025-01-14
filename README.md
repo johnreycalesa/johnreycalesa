@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer and Software
 - Reduced manual effort by 40% through web automation solutions.
 - Improved testing efficiency by 30% with hands-on manual testing.
 
-### **Freelance Projects**
+### **Projects**
 #### Speedy Repair and Delivery | *Mar 2024 – Sep 2024*
 - Created real-time geolocation maps with Mapbox.
 - Designed responsive interfaces using TailwindCSS.
