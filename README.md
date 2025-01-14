@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer and Software
 
 ## 🚀 Experience
 ### **Full Stack Software Engineer (Web & Mobile)**  
-**Proweaver Inc.** | *Jan 2024 – Present*
+**Proweaver Inc.** | *Jan 2024 – Dec 2024*
 - Developed responsive web applications using Vue.js and CodeIgniter.
 - Integrated Firebase for secure, real-time data synchronization.
 - Built GPS mapping solutions using Mapbox and Ionic for mobile apps.
