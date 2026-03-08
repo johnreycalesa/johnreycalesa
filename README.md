@@ -1,46 +1,77 @@
 # Hi, I'm John Rey Calesa 👋
 
-Welcome to my GitHub profile! I'm a passionate Full Stack Developer and Software Engineer based in Cebu City, Philippines. I specialize in creating robust applications and responsive web solutions that deliver real-world impact.
+Full Stack Developer & Software Engineer | Cebu City, Philippines
+Building robust, responsive web and mobile solutions that deliver real-world impact.
 
-## ⚛️ About Me
-- **Location:** Cebu City, Philippines
-- **Languages:** English, Tagalog, Cebuano, Waray-Waray
-- **Education:** Certificate in Computer Technology, University of San Carlos (2021–2024)
+[📧 Email](mailto:calesajohnrey@gmail.com) • [📱 Phone](tel:+639772143141) • [💼 LinkedIn](#) • [🐙 GitHub](#)
 
-## 📊 Technical Skills
-### Programming Languages:
-- Java, Python, SQL, C#, JavaScript, TypeScript, HTML, CSS
+## 👨‍💻 About Me
 
-### Frameworks & Tools:
-- Angular, ReactJS, VueJS, TailwindCSS, jQuery
-- Figma, Laravel, .NET, Spring Boot, CodeIgniter
-- MySQL, MongoDB, Firebase, XAMPP
-- Axios, Mapbox, Ionic
+**Education:** Certificate in Computer Technology, University of San Carlos (2021–2024)
 
-## 🚀 Experience
-### **Full Stack Software Engineer (Web & Mobile)**  
-**Proweaver Inc.** | *Jan 2024 – Dec 2024*
-- Developed responsive web applications using Vue.js and CodeIgniter.
-- Integrated Firebase for secure, real-time data synchronization.
-- Built GPS mapping solutions using Mapbox and Ionic for mobile apps.
+**Languages:** English, Tagalog, Cebuano, Waray-Waray
 
-### **Software Engineer**  
-**KYOCERA Document Solutions Inc.** | *Feb 2023 – Dec 2023*
-- Streamlined critical processes using C#, .NET, and React.
-- Reduced manual effort by 40% through web automation solutions.
-- Improved testing efficiency by 30% with hands-on manual testing.
+## 🛠️ Technical Skills
 
-### **Projects**
-#### Speedy Repair and Delivery | *Mar 2024 – Sep 2024*
-- Created real-time geolocation maps with Mapbox.
-- Designed responsive interfaces using TailwindCSS.
-- Integrated APIs for seamless communication across platforms.
+| Category | Skills |
+|----------|--------|
+| **Frontend** | ReactJS, Vue.js, Angular, TailwindCSS, jQuery, HTML, CSS |
+| **Backend** | Java, Python, C#, Laravel, .NET, Spring Boot, CodeIgniter |
+| **Mobile** | Ionic, React Native |
+| **Databases** | MySQL, MongoDB, Firebase |
+| **APIs & Tools** | Axios, Mapbox, REST APIs, Git, Figma |
+| **Languages** | JavaScript, TypeScript, SQL, Java, Python, C# |
 
-#### FavioJasso.com | *Feb 2023 – Sep 2023*
-- Built an inventory system using Laravel.
-- Implemented localization features for diverse user bases.
-- Optimized database operations for enhanced performance.
+## 🚀 Professional Experience
 
-## 🛠️ Let's Connect
+### Full Stack Software Engineer (Web & Mobile)
+**Proweaver Inc.** | Jan 2024 – Dec 2024
+
+- Developed responsive web applications using Vue.js and CodeIgniter
+- Integrated Firebase for secure, real-time data synchronization
+- Built GPS mapping solutions using Mapbox and Ionic for mobile apps
+
+### Software Engineer
+**KYOCERA Document Solutions Inc.** | Feb 2023 – Dec 2023
+
+- **⚡ 40% reduction** in manual effort through C#/.NET web automation solutions
+- **⚡ 30% improvement** in testing efficiency with comprehensive manual testing
+- Streamlined critical processes using React for responsive UI/UX
+
+## 🎯 Featured Projects
+
+### Speedy Repair and Delivery
+**Mar 2024 – Sep 2024** | Vue.js, Mapbox, TailwindCSS, Firebase
+
+Real-time service delivery platform with live GPS tracking
+- Built interactive geolocation maps with Mapbox
+- Designed responsive interfaces with TailwindCSS
+- Integrated APIs for cross-platform communication
+
+### FavioJasso.com
+**Feb 2023 – Sep 2023** | Laravel, MySQL
+
+E-commerce inventory management system
+- Built comprehensive inventory system with Laravel
+- Implemented multi-language support for diverse users
+- Optimized database queries for 50% faster performance
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=johnreycalesa&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=johnreycalesa&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 💬 Let's Connect
+
+Feel free to reach out — I'm always open to interesting projects and collaboration!
+
 - **Email:** [calesajohnrey@gmail.com](mailto:calesajohnrey@gmail.com)
-- **Phone:** +63 977-214-3141
+- **Phone:** [+63 977-214-3141](tel:+639772143141)
+- **Location:** Cebu City, Philippines
